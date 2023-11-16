@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 10;
+    font-family: Arial , sans-serif; /* Change "Your New Font" to the desired font name */
+    background: url() no-repeat;
+    background-size: cover;
+}
+
+.login-box {
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #333; /* Change color to desired text color */
+}
+
+.login-box h1 {
+    float: left;
+    font-size: 100px; /* Change font size to make it bigger */
+    font-family: "Your New Font", sans-serif; /* Change "Your New Font" to the desired font name */
+    border-bottom: 4px solid red;
+    margin-bottom: 50px;
+    padding: 13px;
+    color: green; /* Change color to desired color */
+}
+
+.textbox {
+    width: 100%;
+    overflow: hidden;
+    font-size: 24px; /* Change font size to make it bigger */
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #191970;
+}
+
+.fa {
+    width: px;
+    float: left;
+    text-align: center;
+}
+
+.textbox input {
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 20px; /* Change font size to make it bigger */
+    font-family: "Your New Font", sans-serif; /* Change "Your New Font" to the desired font name */
+    float: left;
+    margin: 0 10px;
+}
+
+.button {
+    width: 100%;
+    padding: 20px;
+    color: blue; /* Change color to desired text color */
+    background: none #191970;
+    border: none;
+    border-radius: 6px;
+    font-size: 24px; /* Change font size to make it bigger */
+    font-family: "Your New Font", sans-serif; /* Change "Your New Font" to the desired font name */
+    cursor: pointer;
+    margin: 12px 0;
+}
+body {
+    background-color: #f2f2f2; /* Use a light grey color for the background */
+}
+
+.login-box {
+    background-color: #dcdcdc; /* Use a slightly darker grey for the login box */
+}
+
+.login-box h1 {
+    color: #333; /* Use a dark grey color for the login header */
+    border-bottom: 4px solid #b8860b; /* Use a goldenrod color for the border */
+}
+
+.textbox {
+    border-bottom: 1px solid #808080; /* Use a medium grey color for the textbox border */
+}
+
+.textbox input {
+    color: #333; /* Use a dark grey color for the text inside the input */
+}
+
+.button {
+    color: #fff; /* Use white color for the text on the button */
+    background-color: #a52a2a; /* Use a dark red color for the button background */
+}
+
+.signup-link a {
+    color: #a52a2a; /* Use a dark red color for the signup link */
+}
+
